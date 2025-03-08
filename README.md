@@ -11,7 +11,7 @@
   <img src = './images/java.png' width='50'/>
   <img src = './images/vhdl.png' width='50'/>
   <img src = './images/html.png' width='50'/>
-  <img src = './images/sql.png' width='50'/>
+  <img src = './images/sql2.png' width='50'/>
   <img src = './images/assembly.png' width='50'/><br>
   <h3>And technologies:</h3>
   <img src = './images/arduino.png' width='50'/>
