@@ -9,18 +9,27 @@
   <img src = './images/cpp.png' width='50'/>
   <img src = './images/python.png' width='50'/>
   <img src = './images/java.png' width='50'/>
-  <img src = './images/vhdl.png' width='50'/>
+  <img src = './images/typescript.png' width='50'/>
   <img src = './images/html.png' width='50'/>
   <img src = './images/sql2.png' width='50'/>
-  <img src = './images/assembly.png' width='50'/><br>
+  <img src = './images/assembly.png' width='50'/>
+  <img src = './images/vhdl.png' width='50'/><br>
   <h3>And technologies:</h3>
-  <img src = './images/arduino.png' width='50'/>
-  <img src = './images/linux.png' width='50'/>
+  <img src = './images/react.png' width='50'/>
+  <img src = './images/spring.png' width='50'/>
+  <img src = './images/docker.png' width='50'/>
+  <img src = './images/angular.png' width='50'/>
   <img src = './images/django.png' width='50'/>
   <img src = './images/git.png' width='50'/>
+  <img src = './images/supabase.png' width='50'/>
+  <img src = './images/opencv.png' width='50'/>
+  <img src = './images/pytorch1.png' width='50'/>
+  <img src = './images/arduino.png' width='50'/>
+  <img src = './images/linux.png' width='50'/>  
   <img src = './images/vivado.png' width='50'/>
   <img src = './images/Jupyter.png' width='50'/>
   <img src = './images/overleaf.png' width='50'/>
+  <img src = './images/figma.png' width='50'/>
   <img src = './images/photoshop.png' width='50'/>
   <img src = './images/lightroom.png' width='50'/>
 </div>
